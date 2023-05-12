@@ -2,11 +2,11 @@
 With the help of these files, you can quickly set up the build of your Gulp project.
 
 ## Directory structure for file placement:
-> ./src/scss/\*\*/\*.scss, 
-> ./src/js/\*\*/\*.js, 
-> ./src/pages/\*\*/\*.pug, 
-> ./src/images/\*\*/\*.{jpg, png, svg, gif, webp, **etc**}, 
-> ./src/fonts/\*\*/\*.{ttf, woff, woff2, **etc**}, 
+- ./src/scss/\*\*/\*.scss, 
+- ./src/js/\*\*/\*.js, 
+- ./src/pages/\*\*/\*.pug, 
+- ./src/images/\*\*/\*.{jpg, png, svg, gif, webp, **etc**}, 
+- ./src/fonts/\*\*/\*.{ttf, woff, woff2, **etc**}, 
 
 ## Manual:
 1. Download that package in your project directory.
