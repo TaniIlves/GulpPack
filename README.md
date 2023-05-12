@@ -27,7 +27,7 @@ With the help of these files, you can quickly set up the build of your Gulp proj
 [gulp-sass](https://www.npmjs.com/package/gulp-sass) *Version 5.1.0* - Sass plugin for *Gulp*.  
 
 ### Utilities
-[del](https://www.npmjs.com/package/del) *Version 6.0.0* - Delete files and directories.
+[del](https://www.npmjs.com/package/del) *Version 6.0.0* - Delete files and directories.  
 [file-exists](https://www.npmjs.com/package/file-exists) *Version 5.0.1* - Check if filepath exists and is a file. Returns false for directories.  
 [gulp-rename](https://www.npmjs.com/package/gulp-rename) *Version 2.0.0* - *Gulp* plugin to rename files easily.  
 [gulp-plumber](https://www.npmjs.com/package/gulp-plumber) *Version 1.2.1* - This plugin is fixing issue with *Node Streams* piping.  
