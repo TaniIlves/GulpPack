@@ -18,11 +18,11 @@ With the help of these files, you can quickly set up the build of your Gulp proj
 
 
 ## Usage:
-1. Download that package or cloning the repository in your project directory.
-`git clone https://github.com/TaniIlves/GulpPack.git`
-2. Enter the command in your terminal: `npm i` (node.js must be installed)
-3. Run the command: `gulp` (run *default* task)
-4. **Have fun!**
+1. Download that package or cloning the repository in your project directory.  
+`git clone https://github.com/TaniIlves/GulpPack.git`  
+2. Enter the command in your terminal: `npm i` (node.js must be installed)  
+3. Run the command: `gulp` (run *default* task)  
+4. **Have fun!**  
 
 
 
